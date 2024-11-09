@@ -8,4 +8,7 @@ C:\PROGRA~1\7-Zip\7z.exe x depot_tools.zip -o"%USERPROFILE%\Downloads\depot_tool
 del depot_tools.zip
 )
 
+git config core.autocrlf false
+git config core.filemode false
+
 pause
