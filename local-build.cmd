@@ -8,7 +8,8 @@ SET PATH=^
 %DOWNLOADS_DIR%\PortableGit\bin;^
 %DOWNLOADS_DIR%\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\mingw64;^
 %DOWNLOADS_DIR%\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\mingw64\bin;^
-%DOWNLOADS_DIR%\cmake-3.26.1-windows-x86_64\bin;
+%DOWNLOADS_DIR%\cmake-3.26.1-windows-x86_64\bin;^
+%DOWNLOADS_DIR%\depot_tools;
 
 @REM set PATH=^
 @REM D:\Softwares\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\mingw64;^
